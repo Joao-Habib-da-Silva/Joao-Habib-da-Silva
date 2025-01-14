@@ -1,16 +1,66 @@
-## Hi there 👋
+# 💻 João Habib
 
-<!--
-**Joao-Habib-da-Silva/Joao-Habib-da-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Full Stack`**
 
-Here are some ideas to get you started:
+Me chamo João Habib da Silva Júnior, tenho 16 anos e vivo no estado de São Paulo, na capital, estou no Terceiro Ano do Ensino Médio Técnico no Senac, no curso técnico em Informática. Estou estudando e me desenvolvendo em linguagens e áreas no Back End como no Front End.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is João Habib da Silva Júnior, I'm 16 years old and i live in São Paulo, in the capital, I'm in the Third Year of Technical High School at Senac, on the technical course in IT. I am studying and developing in languages and areas in Back End and Front End.
+
+<p align="left">
+      <a href="https://github.com/Joao-Habib-da-Silva?tab=followers">
+         <img alt="seguidores"
+          title="Seguidores no Github" src="https://custom-icon-badges.demolab.com/github/followers/Joao-Habib-da-Silva?color=219ebc&labelColor=023047&style=for-the-badge&logo=github&label=Followers&logoColor=white"/></a>
+      <a href="https://github.com/Joao-Habib-da-Silva?tab=repositories&sort=stargazers">
+         <img alt="Estrelas"
+          title="Total de estrelas no Github" src="https://custom-icon-badges.demolab.com/github/stars/Joao-Habib-da-Silva?color=219ebc&style=for-the-badge&labelColor=023047&logo=star&label=Stars"/></a>
+   </p>
+
+   ---
+
+   ### ⌨️ Linguagens e Tecnologias / Languages and Technologys
+
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+
+  <img
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+
+ <img
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
+ <img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+<br/>
+<br/>
+
+### 📊 Estatísticas / Stats
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Habib-da-Silva&show_icons=true&include_all_comits=true&hide_border=true&theme=tokyonight&text_color=ffffff&title_color=caf0f8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Habib-da-Silva&theme=tokyonight&text_color=ffffff&title_color=caf0f8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
