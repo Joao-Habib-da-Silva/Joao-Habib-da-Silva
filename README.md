@@ -62,5 +62,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 ### 📊 Estatísticas / Stats
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Habib-da-Silva&show_icons=true&include_all_comits=true&hide_border=true&theme=tokyonight&text_color=ffffff&title_color=caf0f8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Habib-da-Silva&theme=tokyonight&text_color=ffffff&title_color=caf0f8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Joao-Habib-da-Silva&show_icons=true&theme=tokyonight&line_height=27" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Habib-da-Silva&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
