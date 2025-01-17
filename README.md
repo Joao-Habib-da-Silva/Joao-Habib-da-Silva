@@ -9,10 +9,10 @@ My name is João Habib da Silva Júnior, I'm 16 years old and i live in São Pau
 <p align="left">
       <a href="https://github.com/Joao-Habib-da-Silva?tab=followers">
          <img alt="seguidores"
-          title="Seguidores no Github" src="https://custom-icon-badges.demolab.com/github/followers/Joao-Habib-da-Silva?color=219ebc&labelColor=023047&style=for-the-badge&logo=github&label=Followers&logoColor=white"/></a>
+          title="Seguidores no Github" src="https://custom-icon-badges.demolab.com/github/followers/Joao-Habib-da-Silva?color=219ebc&labelColor=023047&style=for-the-badge&logo=github&label=Followers&logoColor=white"/></a> </img>
       <a href="https://github.com/Joao-Habib-da-Silva?tab=repositories&sort=stargazers">
          <img alt="Estrelas"
-          title="Total de estrelas no Github" src="https://custom-icon-badges.demolab.com/github/stars/Joao-Habib-da-Silva?color=219ebc&style=for-the-badge&labelColor=023047&logo=star&label=Stars"/></a>
+          title="Total de estrelas no Github" src="https://custom-icon-badges.demolab.com/github/stars/Joao-Habib-da-Silva?color=219ebc&style=for-the-badge&labelColor=023047&logo=star&label=Stars"/></a> </img>
    </p>
 
    ---
