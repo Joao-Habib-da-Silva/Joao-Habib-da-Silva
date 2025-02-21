@@ -120,5 +120,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 <img src="https://github-readme-stats.vercel.app/api?username=Joao-Habib-da-Silva&show_icons=true&theme=tokyonight&line_height=27" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Habib-da-Silva&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-![Snake animation](https://github.com/joaohabibdasilva/joaohabibdasilva/blob/output/github-snake.svg)
