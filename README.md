@@ -72,6 +72,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
           
           
           
+            <img
+             width="30px"
+            align="left"
+            style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+          
 <br/>
 <br/>
 
