@@ -111,7 +111,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
       title='Illustrator'
       style="padding-right: 10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" />
-          
+   <img
+      width="30px"
+      align="left"
+      alt='Illustrator'
+      title='Illustrator'
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+                  
 <br/>
           <br/>
 
