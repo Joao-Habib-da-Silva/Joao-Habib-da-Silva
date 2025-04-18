@@ -87,7 +87,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
       title='NPM'
       style="padding-right: 10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-      
+  
+<img 
+    width="30px"
+      align="left"
+      alt='NPM'
+      title='NPM'
+      style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+          
   <img 
         width="30px"
       align="left"
