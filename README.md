@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo João Habib da Silva Júnior, tenho 16 anos e vivo no estado de São Paulo, na capital, estou no Terceiro Ano do Ensino Médio Técnico no Senac, no curso técnico em Informática. Estou estudando e me desenvolvendo em linguagens e áreas no Back End como no Front End.
+Me chamo João Habib da Silva Júnior, tenho 17 anos e vivo no estado de São Paulo, na capital, estou no Terceiro Ano do Ensino Médio Técnico no Senac, no curso técnico em Informática. Estou estudando e me desenvolvendo em linguagens e áreas no Back End como no Front End.
 
-My name is João Habib da Silva Júnior, I'm 16 years old and i live in São Paulo, in the capital, I'm in the Third Year of Technical High School at Senac, on the technical course in IT. I am studying and developing in languages and areas in Back End and Front End.
+My name is João Habib da Silva Júnior, I'm 17 years old and i live in São Paulo, in the capital, I'm in the Third Year of Technical High School at Senac, on the technical course in IT. I am studying and developing in languages and areas in Back End and Front End.
 
 <p align="left">
     <a href="https://github.com/Joao-Habib-da-Silva?tab=followers">
