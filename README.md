@@ -1,9 +1,9 @@
 # 💻 João Habib
 <br>
-<p align="center">Olá, bem vindo ao meu Github, eu sou João Habib da Silva Júnior, tenho 17 anos, sou desenvolvedor Full Stack, estudo no Ensino Médio Técnico em Informática no Senac, busco conhecimento e trabalho para afiar meus conhecimentos em Back End como em Front End. Sou apaixonado na área de Informática e no ramo da programação, desde linguagens de marcação a algoritmos e lógica de programação.
+<p align="center">Olá, bem vindo ao meu Github, eu sou João Habib da Silva Júnior, tenho 17 anos, sou desenvolvedor Full Stack, estudei no Ensino Médio Técnico em Informática no Senac, busco conhecimento e trabalho para afiar meus conhecimentos em Back End como em Front End. Sou apaixonado na área de Informática e no ramo da programação, desde linguagens de marcação a algoritmos e lógica de programação.
 </p>
 <br>
-<p align="center">Hello, welcome to my Github, I am João Habib da Silva Júnior, I am 17 years old, i am a Full Stack Developer who studies at a Technical School called Senac, i study IT, i am searching for knowledge and a job for sharp my skills in Back End and Front End. I am passionate about IT and the coding area, from Markup Languages to algorithms and Coding logic.</p>
+<p align="center">Hello, welcome to my Github, I am João Habib da Silva Júnior, I am 17 years old, i am a Full Stack Developer who studied at a Technical School called Senac, i study IT, i am searching for knowledge and a job for sharp my skills in Back End and Front End. I am passionate about IT and the coding area, from Markup Languages to algorithms and Coding logic.</p>
 <br>
 <p align="center">
     <a href="https://github.com/Joao-Habib-da-Silva?tab=followers">
